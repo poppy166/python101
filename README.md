@@ -1,1 +1,1 @@
-# python101
+# pyautugui
